@@ -6,7 +6,7 @@ p {
 .foto-perfil {
     max-height: 200px;
     max-width: 200px;
-    border-radius: 50%;
+    border-radius: 80%;
 }
 
 .icones {
@@ -29,7 +29,7 @@ p {
     padding-bottom: 20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #18bc9c
+    color: grey;
 }
 
 
@@ -47,11 +47,11 @@ html {
 }
 
 p {
-    color: black !important;
+    color: #0804ff !important;
 }
 
 .cores{
-    background-color: #10f783;
+    background-color: #0804ff;
 }
 
 .itemMenu {
