@@ -1,0 +1,115 @@
+
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.foto-perfil {
+    max-height: 250px;
+    max-width: 250px;
+    border-radius: 40%;
+}
+
+.icones {
+    padding-left: 5px;
+}
+
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: grey;
+}
+
+
+.paragrafoBrancos {
+    color: white !important;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: #0804ff !important;
+}
+
+.cores{
+    background-color: #0804ff;
+}
+
+.itemMenu {
+    color: white;
+}
+
+/*Grid*/
+
+.col-1 {
+    width: 8.333%;
+}
+
+.col-2 {
+    width: 16.666%;
+}
+
+.col-3 {
+    width: 24.99%;
+}
+
+.col-4 {
+    width: 33.32%;
+}
+
+.col-5 {
+    width: 41.665%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.331%;
+}
+
+.col-8 {
+    width: calc(8.333% * 8);
+    /*66.664%*/
+}
+
+.col-9 {
+    width: calc(8.333% * 9);
+    /*74.997%;*/
+}
+
+.col-10 {
+    width: calc(8.333% * 10);
+    /*83.33%;*/
+}
+
+.col-11 {
+    width: calc(8.333% * 11);
+    /*91.663%;*/
+}
+
+.col-12 {
+    width: calc(8.333% * 12);
+    /*100%*/
+}
+
